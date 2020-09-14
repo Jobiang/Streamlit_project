@@ -1,6 +1,6 @@
 streamlit
 pandas
 numpy
-plotly.express
+plotly
 wordcloud
 matplotlib
